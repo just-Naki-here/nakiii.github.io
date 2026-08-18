@@ -1,0 +1,45 @@
+- name: "Minecraft Java Edition"
+  category: "Sandbox / Modding"
+  interest: "Very High"
+  notes:
+    - "Modding"
+    - "Fabric"
+    - "Forge"
+    - "NeoForge"
+    - "Custom advancements"
+    - "Progression systems"
+
+- name: "Roblox"
+  category: "Platform / Development"
+  interest: "Very High"
+  notes:
+    - "Game systems"
+    - "Avatars"
+    - "Puzzle experiences"
+    - "Experimental games"
+
+- name: "Linglox"
+  category: "Puzzle / Word"
+  interest: "Very High"
+  notes:
+    - "Prompt design"
+    - "Alternate answers"
+    - "Map concepts"
+    - "Puzzle logic"
+
+- name: "Deltarune"
+  category: "RPG"
+  interest: "High"
+  notes:
+    - "Characters"
+    - "Boss strategies"
+    - "Story"
+    - "Music"
+
+- name: "Just Dance"
+  category: "Rhythm"
+  interest: "High"
+  notes:
+    - "Extreme routines"
+    - "Score improvement"
+    - "Challenge play"
